@@ -168,3 +168,26 @@ Problem Statement: Write a Java function named calculateFactorial that calculate
 
 Problem Statement: Write a Java function named calculateFibonacci that calculates and returns the nth term of the Fibonacci sequence. The function should take an integer 'n' as input and return an integer representing the nth term of the Fibonacci sequence.
 
+📌Day 22: Java function to find the sum of two integers
+
+Problem Statement: Write a Java function named calculateSum that calculates and returns the sum of two integers 'a' and 'b'. The function should take two integers 'a' and 'b' as input and return an integer representing their sum. Function Description: int calculateSum(int a, int b)
+
+📌Day 22: Java function to calculate the binomial coefficient (n choose k)
+
+Problem Statement: Write a Java function named calculateBinomialCoefficient that calculates and returns the binomial coefficient C(n, k). The function should take two integers 'n' and 'k' as input and return an integer representing the binomial coefficient C(n, k). Function Description: int calculateBinomialCoefficient(int n, int k)
+
+📌Day 23: Write a Java function to check if a given number is a palindrome
+
+Problem Statement: Write a Java function named isPalindrome that checks if a given integer 'num' is a palindrome or not. A palindrome is a number that remains the same when its digits are reversed. The function should take an integer 'num' as input and return a boolean value (true if 'num' is a palindrome, false otherwise). Function Description: boolean isPalindrome(int num)
+
+📌Day 23: Write a Java program to find all prime numbers in a given range using a userdefined function
+
+Problem Statement: Write a Java program that finds and prints all prime numbers within a given range [start, end]. The program should use a user-defined function named isPrime to check if a number is prime or not. The function should take an integer 'num' as input and return a boolean value (true if 'num' is prime, false otherwise). Function Description: boolean isPrime(int num)
+
+📌Day 24: Write a Java program to convert a binary number to decimal using a user-defined function
+
+Problem Statement: Write a Java program that converts a binary number represented as a string to its decimal equivalent. The program should use a user-defined function named binaryToDecimal to perform the conversion. The function should take a binary string as input and return its decimal equivalent as an integer. int binaryToDecimal(String binary)
+
+📌Day 24: Write a Java program to convert a decimal number to binary using a user-defined function
+
+Problem Statement: Write a Java program that converts a decimal number (positive integer) to its binary representation as a string. The program should use a user-defined function named decimalToBinary to perform the conversion. The function should take a decimal integer as input and return its binary representation as a string. Function Description: String decimalToBinary(int decimal)
