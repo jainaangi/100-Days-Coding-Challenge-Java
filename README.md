@@ -191,3 +191,27 @@ Problem Statement: Write a Java program that converts a binary number represente
 📌Day 24: Write a Java program to convert a decimal number to binary using a user-defined function
 
 Problem Statement: Write a Java program that converts a decimal number (positive integer) to its binary representation as a string. The program should use a user-defined function named decimalToBinary to perform the conversion. The function should take a decimal integer as input and return its binary representation as a string. Function Description: String decimalToBinary(int decimal)
+
+📌Day 25: Java program to find the maximum element in an array using a user-defined function
+
+Problem Statement: Write a Java program that finds the maximum element in an array of integers. The program should use a user-defined function named findMax to perform this task. The function should take the array as input and return the maximum element. Function Description: int findMax(int[] arr).
+
+📌Day 25: Java program to calculate the greatest common divisor (GCD) of two numbers using a user-defined function
+
+Problem Statement: Write a Java program that calculates the greatest common divisor (GCD) of two positive integers. The program should use a user-defined function named calculateGCD to perform this task. The function should take two integer inputs and return their GCD. Function Description: int calculateGCD(int num1, int num2).
+
+📌Day 26: Write a Java program to calculate the area of a rectangle and a circle using function overloading.
+
+Problem Statement: Write a Java program that calculates the area of a rectangle and a circle using function overloading. You should create two separate functions: one for calculating the area of a rectangle and another for calculating the area of a circle. Both functions should be named calculateArea but should accept different sets of parameters. Function Description for Rectangle: double calculateArea(double length, double width) Function Description for Circle: double calculateArea(double radius)
+
+📌Day 26: Write a Java program to calculate the volume of a cube and a sphere using function overloading.
+
+Problem Statement: Write a Java program that calculates the volume of a cube and a sphere using function overloading. You should create two separate functions: one for calculating the volume of a cube and another for calculating the volume of a sphere. Both functions should be named calculateVolume but should accept different sets of parameters. Function Description for Cube: double calculateVolume(double sideLength) Function Description for Sphere: double calculateVolume(double radius, String shapeType)
+
+📌Day 27: Java program to find the sum of elements in an array
+
+Problem Statement: Write a Java program that calculates the sum of elements in an array. You will be given an array of integers, and your task is to find and return the sum of all the elements in the array. Function Description: int findSum(int[] arr)
+
+📌Day 27: Java program to find the second largest element in an array
+
+Problem Statement: Write a Java program that finds and returns the second largest element in an array of integers. You will be given an array, and your task is to find the second largest element in that array. Function Description: int findSecondLargest(int[] arr)
